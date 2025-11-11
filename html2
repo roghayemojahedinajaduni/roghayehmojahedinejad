@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>CV - Roghaye Mojahedi Nejad</title>
+<link rel="stylesheet" href="../assets/style.css">
+</head>
+<body>
+<header>
+  <div class="container">
+    <h1>Curriculum Vitae</h1>
+    <nav>
+      <a href="../index.html">Home</a>
+      <a href="../contact/">Contact</a>
+    </nav>
+  </div>
+</header>
+
+<main>
+  <section>
+    <h2>Download My CV</h2>
+    <p>You can download the full version of my CV here:</p>
+    <a href="Roghaye_CV.pdf" class="btn">Download CV (PDF)</a>
+  </section>
+
+  <section>
+    <h2>Academic Background Summary</h2>
+    <p>MSc in Business Administration (Marketing), University of Ilam (2023–2025)</p>
+    <p>BSc in Engineering Management, Payame Noor University of Masjed Soleyman (2007–2011)</p>
+  </section>
+
+  <section>
+    <h2>Research Interests</h2>
+    <ul>
+      <li>Digital Consumer Behaviour</li>
+      <li>Affiliate Marketing and Trust Formation</li>
+      <li>Cross-cultural Behavioural Marketing</li>
+    </ul>
+  </section>
+</main>
+
+<footer>
+  <p>© 2025 Roghaye Mojahedi Nejad | All Rights Reserved</p>
+</footer>
+
+</body>
+</html>
