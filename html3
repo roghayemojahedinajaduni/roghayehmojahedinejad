@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Contact - Roghaye Mojahedi Nejad</title>
+<link rel="stylesheet" href="../assets/style.css">
+</head>
+<body>
+<header>
+  <div class="container">
+    <h1>Contact Me</h1>
+    <nav>
+      <a href="../index.html">Home</a>
+      <a href="../cv/">CV</a>
+    </nav>
+  </div>
+</header>
+
+<main>
+  <section>
+    <h2>Get in Touch</h2>
+    <p>If you would like to discuss research collaborations, PhD supervision, or academic opportunities, feel free to reach out via the following:</p>
+
+    <ul>
+      <li><strong>Email:</strong> <a href="mailto:roghayemojahedinejaduni@gmail.com">roghayemojahedinejaduni@gmail.com</a></li>
+      <li><strong>Phone:</strong> +98 937 819 0408</li>
+      <li><strong>Location:</strong> Ahvaz, Khuzestan, Iran</li>
+    </ul>
+  </section>
+</main>
+
+<footer>
+  <p>© 2025 Roghaye Mojahedi Nejad | Website built for GitHub Pages</p>
+</footer>
+
+</body>
+</html>
